@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-https://circleci.com/gh/gopinath-vs/DevOpsProject4.svg?style=svg
+[![CIRCLECI](https://circleci.com/gh/gopinath-vs/DevOpsProject4.svg?style=svg)](https://circleci.com/gh/gopinath-vs/DevOpsProject4)
 
 ## Project Overview
 
