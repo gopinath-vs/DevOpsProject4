@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+https://circleci.com/gh/gopinath-vs/DevOpsProject4.svg?style=svg
 
 ## Project Overview
 
